@@ -12,7 +12,6 @@ See also https://immich.app/docs/community-projects/
 - [Import/Export Tools](#importexport-tools)
 - [Media Management](#media-management)
 - [Slideshow & Display](#slideshow--display)
-- [Mobile & TV Apps](#mobile--tv-apps)
 - [Optimization](#optimization)
 - [Sharing](#sharing)
 - [Distribution](#distribution)
@@ -45,9 +44,6 @@ See also https://immich.app/docs/community-projects/
 
 - [ImmichFrame](https://github.com/3rob3/ImmichFrame) - Run an Immich slideshow in a photo frame.
 - [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - Lightweight slideshow to run on kiosk devices and browsers.
-
-## Mobile & TV Apps
-
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
 - [Immich Kodi](https://github.com/steve-gombos/immich-kodi-plugin) - Unofficial Kodi plugin for Immich.
 - [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
