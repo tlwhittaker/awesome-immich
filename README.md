@@ -1,4 +1,22 @@
+# Awesome Immich [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> A curated list of awesome Immich plugins, tools, and community projects
+
+[Immich](https://immich.app/) is a self-hosted photo and video management solution with a web interface and mobile apps.
+
+See also https://immich.app/docs/community-projects/
+
+## Contents
+
+- [CLI Tools](#cli-tools)
+- [Import/Export Tools](#importexport-tools)
+- [Media Management](#media-management)
+- [Slideshow & Display](#slideshow--display)
+- [Mobile & TV Apps](#mobile--tv-apps)
+- [Optimization](#optimization)
+- [Sharing](#sharing)
+- [Distribution](#distribution)
+  
 ## CLI Tools
 
 - [immich-go](https://github.com/simulot/immich-go) - Alternative CLI tool that doesn't depend on Node.js, specializes in importing Google Photos Takeout archives.
