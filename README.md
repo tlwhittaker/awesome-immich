@@ -28,7 +28,7 @@ See also https://immich.app/docs/community-projects/
 - [Create albums from folders](https://github.com/Derkades/immich-albums-from-folders) - Python script to create albums based on the folder structure of an external library.
 - [Immich Downloader](https://github.com/loganmarchione/immich-downloader) - Downloads a configurable number of random photos based on people or album ID.
 - [Lightroom Publisher: mi.Immich.Publisher](https://github.com/midzelis/mi.Immich.Publisher) - Lightroom plugin to publish photos from Lightroom collections to Immich albums.
-- [Lightroom Immich Plugin: lrc-immich-plugin](https://github.com/tuxpeople/lrc-immich-plugin) - Lightroom plugin to publish and export photos from Lightroom to Immich. Import from Immich to Lightroom is also supported.
+- [Lightroom Immich Plugin: lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Lightroom plugin to publish and export photos from Lightroom to Immich. Import from Immich to Lightroom is also supported.
 
 ## Media Management
 
