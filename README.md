@@ -4,8 +4,6 @@
 
 [Immich](https://immich.app/) is a self-hosted photo and video management solution with a web interface and mobile apps.
 
-See also https://immich.app/docs/community-projects/
-
 ## Contents
 
 - [CLI Tools](#cli-tools)
@@ -24,18 +22,12 @@ See also https://immich.app/docs/community-projects/
 
 ## Import/Export Tools
 
-- [API Album Sync](https://github.com/Derkades/immich-api-album-sync) - Python script to sync folders as albums.
-- [Create albums from folders](https://github.com/Derkades/immich-albums-from-folders) - Python script to create albums based on the folder structure of an external library.
-- [Immich Downloader](https://github.com/loganmarchione/immich-downloader) - Downloads a configurable number of random photos based on people or album ID.
 - [Lightroom Publisher: mi.Immich.Publisher](https://github.com/midzelis/mi.Immich.Publisher) - Lightroom plugin to publish photos from Lightroom collections to Immich albums.
 - [Lightroom Immich Plugin: lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Lightroom plugin to publish and export photos from Lightroom to Immich. Import from Immich to Lightroom is also supported.
 - [Obsidian Immich Picker](https://github.com/eikowagenknecht/obsidian-immich-picker) - Obsidian plugin to browse and insert photos from your Immich library into notes.
 
 ## Media Management
 
-- [Remove offline files](https://github.com/Derkades/immich-remove-offline-files) - Simple way to remove orphaned offline assets from the Immich database.
-- [Immich-Tools](https://github.com/3rob3/immich-tools) - Provides scripts for handling problems on the repair page.
-- [Immich-Tiktok-Remover](https://github.com/Nick-Eagles/immich-tiktok-remover) - Script to search for and remove TikTok videos from your Immich library.
 - [Immich Power Tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your Immich library.
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
@@ -46,7 +38,6 @@ See also https://immich.app/docs/community-projects/
 - [ImmichFrame](https://github.com/3rob3/ImmichFrame) - Run an Immich slideshow in a photo frame.
 - [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - Lightweight slideshow to run on kiosk devices and browsers.
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
-- [Immich Kodi](https://github.com/steve-gombos/immich-kodi-plugin) - Unofficial Kodi plugin for Immich.
 - [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
 
 ## Optimization
