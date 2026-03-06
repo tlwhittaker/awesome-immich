@@ -14,6 +14,7 @@
 - [Sharing](#sharing)
 - [Distribution](#distribution)
 - [Home Automation](#home-automation)
+- [Guides](#guides)
   
 ## CLI Tools
 
@@ -59,6 +60,13 @@
 ## Home Automation
 
 - [Immich Home Assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library on dashboards and smart displays.
+
+
+## Guides
+
+- [How to Self-Host Immich with Docker Compose](https://selfhosting.sh/apps/immich/) - Complete setup guide covering installation, configuration, and external library management.
+- [Immich vs PhotoPrism](https://selfhosting.sh/compare/immich-vs-photoprism/) - Detailed comparison of features, performance, and use cases.
+- [Immich vs Google Photos](https://selfhosting.sh/compare/immich-vs-google-photos/) - Side-by-side comparison for users considering migrating from Google Photos.
 
 ## Contributing
 
