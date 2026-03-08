@@ -25,6 +25,7 @@
 - [Lightroom Publisher: mi.Immich.Publisher](https://github.com/midzelis/mi.Immich.Publisher) - Lightroom plugin to publish photos from Lightroom collections to Immich albums.
 - [Lightroom Immich Plugin: lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Lightroom plugin to publish and export photos from Lightroom to Immich. Import from Immich to Lightroom is also supported.
 - [Obsidian Immich Picker](https://github.com/eikowagenknecht/obsidian-immich-picker) - Obsidian plugin to browse and insert photos from your Immich library into notes.
+- [Immich Folder Watch](https://github.com/VoltKraft/immich-folder-watch) - A folder watcher and uploader for Immich that ingests new media files via the Immich HTTP API, built for automated, real-time media import.
 
 ## Media Management
 
