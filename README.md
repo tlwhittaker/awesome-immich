@@ -37,6 +37,7 @@
 
 - [ImmichFrame](https://github.com/3rob3/ImmichFrame) - Run an Immich slideshow in a photo frame.
 - [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - Lightweight slideshow to run on kiosk devices and browsers.
+- [Slyde](https://github.com/SlyWombat/slyde) - Pushes Immich photos to digital photo frames — incl. reviving the discontinued Memento Smart Frame over a reverse-engineered LAN protocol, no cloud.
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
 - [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
 
