@@ -14,6 +14,7 @@
 - [Sharing](#sharing)
 - [Distribution](#distribution)
 - [Home Automation](#home-automation)
+- [Backup](#backup)
   
 ## CLI Tools
 
@@ -59,6 +60,9 @@
 ## Home Automation
 
 - [Immich Home Assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library on dashboards and smart displays.
+
+## backup
+- [ImmichKeepR](https://github.com/movioxsi-lab/ImmichKeepR) - Backs up your photos, videos, and PostgreSQL database to Local storage, SMB (NAS), or SFTP destinations, managed entirely through a clean web UI.
 
 ## Contributing
 
