@@ -39,6 +39,7 @@
 - [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - Lightweight slideshow to run on kiosk devices and browsers.
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
 - [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
+- [Picture Frame](https://github.com/MateEke/picture-frame) - Self-hosted Raspberry Pi photo frame for Immich albums, with motion-aware screen power and Home Assistant control.
 
 ## Optimization
 
