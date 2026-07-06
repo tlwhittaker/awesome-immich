@@ -32,6 +32,7 @@
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
+- [Immich Trip Albummer](https://github.com/sophie4869/immich-trip-albums) - Python CLI that clusters photos and videos taken away from home into one album per trip. Deterministic, dry-run by default, and idempotent on re-runs.
 
 ## Slideshow & Display
 
