@@ -32,6 +32,7 @@
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
+- [camie-immich-tagger](https://github.com/PlanetMeow/camie-immich-tagger) - Local anime/illustration auto-tagging (camie-tagger-v2) that writes hierarchical XMP sidecar tags for browsing and search in Immich, with optional SauceNAO reverse-search backfill.
 
 ## Slideshow & Display
 
