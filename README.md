@@ -29,6 +29,7 @@
 ## Media Management
 
 - [Immich Power Tools](https://github.com/varun-raj/immich-power-tools) - Power tools for organizing your Immich library.
+- [Immich Atlas](https://github.com/GuiMartins/immich-atlas) - Read-only storage & library analytics dashboard: disk usage by folder, album/people sizes, largest videos, growth over time, all auto-refreshing.
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
