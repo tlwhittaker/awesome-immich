@@ -32,6 +32,7 @@
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
+- [immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - MCP server and Claude Code plugin that manages your Immich library through conversation: natural language and OCR search, geographic albums from GPS data, duplicates with perceptual hashing, people and faces, metadata repair, video frames and PDF photobooks. 94 tools and 13 skills, tested live on Immich 2.x and 3.x, also available with uvx or as a Docker image.
 
 ## Slideshow & Display
 
