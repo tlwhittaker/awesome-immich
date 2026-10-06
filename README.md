@@ -39,6 +39,7 @@
 - [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - Lightweight slideshow to run on kiosk devices and browsers.
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
 - [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
+- [Immich Wear](https://github.com/nikosavola/immich-wear) - Unofficial Immich client for Wear OS to browse recent photos, albums, favorites and memories from your wrist.
 
 ## Optimization
 
