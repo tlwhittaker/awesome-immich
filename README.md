@@ -39,6 +39,7 @@
 - [Immich Kiosk](https://github.com/damongolding/immich-kiosk) - Lightweight slideshow to run on kiosk devices and browsers.
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
 - [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
+- [Immich Memories](https://github.com/sam-dumont/immich-memories) - Generate memory films from Immich photos, videos and Live Photos, with titles, music, a web editor and automatic scheduling.
 
 ## Optimization
 
