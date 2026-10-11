@@ -32,6 +32,7 @@
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
+- [Immich Geotag](https://github.com/pennico/immich-geotag) - Fill in missing GPS coordinates by recognizing landmarks (Google Cloud Vision, with optional Lens, Gemini, and visual-similarity passes). Add-only and idempotent: photos that already have a location are never touched.
 
 ## Slideshow & Display
 
