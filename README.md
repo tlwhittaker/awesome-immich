@@ -32,6 +32,7 @@
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
+- [Immich Relocator](https://github.com/bihius/immich-relocator) - Relocate pics & videos from Immich internal folder to one or more External Libraries, while updating the Immich db accordingly, so that you never lose track of albums, stacks, faces, tags, etc.
 
 ## Slideshow & Display
 
