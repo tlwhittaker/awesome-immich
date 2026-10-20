@@ -32,6 +32,7 @@
 - [Immich Face To Album](https://github.com/romainrbr/immich-face-to-album) - Sync all photos belonging to one or more detected faces into an existing Immich album
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
+- [motion-photo-bridge](https://github.com/duruonanni/motion-photo-bridge) - Merges dual-file live photos (the same-stem `JPG` + `MP4` pairs that vivo and iQOO phones produce) into standard Motion Photo JPEGs, links them in Immich, and can convert pairs that are already in the library in place.
 
 ## Slideshow & Display
 
